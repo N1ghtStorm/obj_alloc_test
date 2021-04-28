@@ -1,4 +1,4 @@
-let elems_num = 20000000;
+let elems_num = 60000000;
 
 //let humans = new Array(elems_num);
 // 
@@ -11,7 +11,7 @@ for (let i = 0; i < elems_num; i++)
 }
 console.timeEnd("alloc");
 
-let humans_ages = new Array(10000000).fill(0);
+let humans_ages = new Array(elems_num).fill(0);
 
 console.time("map");
 for (let i = 0; i < elems_num; i++)

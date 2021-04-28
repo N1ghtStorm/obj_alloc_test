@@ -1,0 +1,16 @@
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp.deps.json
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp.runtimeconfig.json
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp.runtimeconfig.dev.json
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp.dll
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/ref/MapAllocCSharp.dll
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/bin/Release/net5.0/MapAllocCSharp.pdb
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.csprojAssemblyReference.cache
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.AssemblyInfoInputs.cache
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.AssemblyInfo.cs
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.csproj.CoreCompileInputs.cache
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.dll
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/ref/MapAllocCSharp.dll
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.pdb
+/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/Release/net5.0/MapAllocCSharp.genruntimeconfig.cache

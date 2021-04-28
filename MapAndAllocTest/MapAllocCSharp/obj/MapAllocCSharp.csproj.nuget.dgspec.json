@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\MapAndAllocTest\\MapAllocCSharp\\MapAllocCSharp.csproj": {}
+    "/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/MapAllocCSharp.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\MapAndAllocTest\\MapAllocCSharp\\MapAllocCSharp.csproj": {
+    "/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/MapAllocCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\MapAndAllocTest\\MapAllocCSharp\\MapAllocCSharp.csproj",
+        "projectUniqueName": "/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/MapAllocCSharp.csproj",
         "projectName": "MapAllocCSharp",
-        "projectPath": "D:\\Repos\\MapAndAllocTest\\MapAllocCSharp\\MapAllocCSharp.csproj",
-        "packagesPath": "C:\\Users\\bushu\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\MapAndAllocTest\\MapAllocCSharp\\obj\\",
+        "projectPath": "/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/MapAllocCSharp.csproj",
+        "packagesPath": "/home/n1ght/.nuget/packages/",
+        "outputPath": "/home/n1ght/Repos/obj_alloc_test/MapAndAllocTest/MapAllocCSharp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bushu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/n1ght/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
