@@ -1,4 +1,4 @@
-let elems_num = 60000000;
+let elems_num = 20000000;
 
 //let humans = new Array(elems_num);
 // 
